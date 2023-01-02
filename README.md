@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Taha Sarı and i am 21 years old.
-- 🌱 I’m currently learning Java and React via Patika
+- 🌱 I know Java Maven Cucumber and now I'm learning React
 - I am a 3rd year Mechatronics Engineering student at Turkish German University.
 
 <!---
